@@ -1,0 +1,26 @@
+langchain
+pandas
+numpy
+streamlit
+python-dotenv
+langgraph
+crewai
+langchain-core
+langchain-community
+langchain-groq
+langchain-classic
+Pydantic
+langchain-tavily
+langchain-huggingface
+uvicorn
+PyPDF2
+MetaTrader5
+matplotlib
+ta
+yfinance
+scikit-learn
+transformers
+torch
+requests
+
+-e .
