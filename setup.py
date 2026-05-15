@@ -18,18 +18,18 @@ install_requires=[
     "langchain-groq",
     "langchain-classic",
     "Pydantic",
+    "langchain-tavily",
+    "langchain-huggingface",
+    "uvicorn",
     "PyPDF2",
     "MetaTrader5",
-    "matplotlib",
     "ta",
     "yfinance",
     "scikit-learn",
     "transformers",
     "torch",
-    "langchain-tavily",
-    "langchain-huggingface",
-    "uvicorn",
-    "requests"
+    "requests",
+    "matplotlib"
 ],
 packages=find_packages()
 

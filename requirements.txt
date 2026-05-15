@@ -15,12 +15,12 @@ langchain-huggingface
 uvicorn
 PyPDF2
 MetaTrader5
-matplotlib
 ta
 yfinance
 scikit-learn
 transformers
 torch
 requests
+matplotlib
 
 -e .
